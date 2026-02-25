@@ -1,5 +1,7 @@
-yfinance==0.2.36
-pandas==2.2.0
-numpy==1.26.4
-finance-datareader==0.9.102
-streamlit==1.31.0
+yfinance
+pandas
+numpy
+finance-datareader
+lxml
+beautifulsoup4
+streamlit
